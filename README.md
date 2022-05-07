@@ -1,5 +1,5 @@
 # Sobre mim
 ## Estudante Alura
-:+1:
-- 👋 Sou o @proftatu
-- 👀 Interessado em programação.
+:+1: Sou o @proftatu
+- 👀 **Interessado em programação**.
+
